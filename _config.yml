@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Lucas Horta
+twitter_username: in5ano
+name: Lucas Horta
 
 # Build settings
 markdown: kramdown
@@ -9,51 +9,36 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/lucas-horta
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+   url: https://linkedin.com/in/lucashorta
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
  - Java
+ - Angular
+ - Oracle PL/SQL
+ - Product management
  - JPA
  - SQL
  - REST
- - Technical Architecture
- - Machine learning
+ - Data Science
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Full Stack Developer
+   start: 2021
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
+   employer: Wipro
+   description: Java EE, Angular 2+ and Oracle PL/SQL Agile web development for high surveilance medicine in pediatrics. Helped team deliver 11+ consecutive successful sprints.
+ - title: Project Manager
+   start: 2015
    end: 2017
-   employer: Emerald Street Ventures
+   employer: Tribunal de Justiça do Ceará
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
  - title: Senior Engineer
    start: 2012
@@ -69,52 +54,52 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 2015
+   subject: Computer Science
+   school: Universidade de Fortaleza
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+#coursera:
+#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#   courses:
+#    - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
+#    - title: Algorithms Design and Analysis, Part 1
+#      link: https://www.coursera.org/specializations/algorithms
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+#      date: April 28, 2014
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+#speakerdeck:
+#   profileurl: https://speakerdeck.com/robhinds
+#   talks:
+#    - title: Product Management for Engineers
+#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#      conference: API Conference, Berlin 2018
+#    - title: Agile Machine Learning - from Theory to Production
+#      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+#github:
+# - robhinds/robhinds.github.io
+# - robhinds/ScaLambda
+# - robhinds/opinionated-akka-http
+# - robhinds/food2vec
+# - robhinds/microservices
+# - robhinds/spring-social-geeklist
+# - robhinds/spring-social-stackoverflow
+# - robhinds/genotype
+# - robhinds/footweets
+# - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+#   profileurl: https://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
   I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
