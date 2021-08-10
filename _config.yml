@@ -64,7 +64,7 @@ roles:
 
 #Education is required
 education:
- - level: Master of Business Administration (MBA)
+ - level: MBA
    date: 2021
    subject: Business Intelligence and Data Science
    school: Universidade de Fortaleza
