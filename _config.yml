@@ -50,16 +50,11 @@ roles:
    end: 2017
    employer: Tribunal de Justiça do Ceará
    description: 
- - title: AWS Developer
-   start: 2011
-   end: 2012
-   employer: Universidade de Fortaleza
-   description: 
  - title: Java Developer
    start: 2010
-   end: 2011
-   employer: Laboratório de Engenharia do Conhecimento
-   description: 
+   end: 2012
+   employer: Universidade de Fortaleza
+   description:
 
 
 #Education is required
