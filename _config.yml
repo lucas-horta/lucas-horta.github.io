@@ -19,11 +19,11 @@ skills:
  - Java
  - Angular
  - Oracle PL/SQL
- - Product management
  - JPA
  - SQL
  - REST
  - Data Science
+ - Project management
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -35,6 +35,16 @@ roles:
    end: Ongoing
    employer: Wipro
    description: Java EE, Angular 2+ and Oracle PL/SQL Agile web development for high surveilance medicine in pediatrics. Helped team deliver 11+ consecutive successful sprints.
+ - title: Freelance Data Solutions Developer
+   start: 2020
+   end: 2020
+   employer: Self-Employed
+   description: 
+ - title: Project Manager
+   start: 2017
+   end: 2019
+   employer: Restaurante Costela Sul
+   description: 
  - title: Project Manager
    start: 2015
    end: 2017
