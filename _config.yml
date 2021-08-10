@@ -45,13 +45,28 @@ roles:
    end: 2019
    employer: Restaurante Costela Sul
    description: 
- - title: Project Manager
-   start: 2015
+ - title: Java Developer
+   start: 2014
    end: 2017
    employer: Tribunal de Justiça do Ceará
    description: 
+ - title: Research and AWS Cloud Development
+   start: 2011
+   end: 2012
+   employer: Dell Cumulus Project (Universidade de Fortaleza)
+   description: 
+    - title: Research and Java Development
+   start: 2010
+   end: 2011
+   employer: Laboratório de Engenharia do Conhecimento (Universidade de Fortaleza)
+   description: 
+
 
 #Education is required
+ - level: Master of Business Administration (MBA)
+   date: 2021
+   subject: Business Intelligence and Data Science
+   school: Universidade de Fortaleza
 education:
  - level: Bachelor of Science (B.Sc.)
    date: 2015
